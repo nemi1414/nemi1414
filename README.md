@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my GitHub profile. You can also find me in [linkedIn](https://www.linkedin.com/in/juanignacionemi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [Instagram](https://www.instagram.com/juanignacionemi/) or e-mail juanignacionemi@gmail.com
+
+Skills:
+HTML5, CSS5, PYTHON, C++
 
 <!--
 **nemi1414/nemi1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
